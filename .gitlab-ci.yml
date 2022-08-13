@@ -10,6 +10,4 @@ sonarcloud-check:
   script:
     - mvn verify sonar:sonar -Dsonar.projectKey=juan.condori.jara_CONFLOMARK_GITLAB
   only:
-    - merge_requests
-    - main
-    - GitLab_SonarCloud
+    - mainnnnn
