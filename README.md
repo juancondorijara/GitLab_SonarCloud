@@ -1,4 +1,4 @@
-# Conflomark
+# CONFLOMARK_GITLAB
 Sistema de ventas para Supermercados (Juan Condori | Sergio Flores)
 
 ### Objetivos Generales
