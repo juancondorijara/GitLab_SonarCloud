@@ -10,4 +10,4 @@ sonarcloud-check:
   script:
     - mvn verify sonar:sonar -Dsonar.projectKey=juan.condori.jara_CONFLOMARK_GITLAB
   only:
-    - GitLab_SonarCloud
+    - main
