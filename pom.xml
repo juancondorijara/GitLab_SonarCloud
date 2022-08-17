@@ -13,7 +13,7 @@
         <endorsed.dir>${project.build.directory}/endorsed</endorsed.dir>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <sonar.organization>condorijara</sonar.organization>
-        <sonar.qualitygate.wait>false</sonar.qualitygate.wait>
+        <!--<sonar.qualitygate.wait>false</sonar.qualitygate.wait>-->
     </properties>
     
     <dependencies>
