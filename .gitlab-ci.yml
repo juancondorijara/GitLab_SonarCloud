@@ -8,6 +8,6 @@ sonarcloud-check:
     paths:
       - .sonar/cache
   script:
-    - mvn verify sonar:sonar -Dsonar.projectKey=juan.condori.jara_CONFLOMARK_GITLAB
+    - mvn verify sonar:sonar -Dsonar.projectKey=condorijara_GitLab_SonarCloud
   only:
     - main
