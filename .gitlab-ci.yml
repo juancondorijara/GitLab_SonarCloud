@@ -10,5 +10,5 @@ sonarcloud-check:
   script:
     - mvn verify sonar:sonar -Dsonar.projectKey=condorijara_GitLab_SonarCloud
   only:
-    - main
+    - mainnn
     
